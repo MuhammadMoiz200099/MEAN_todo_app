@@ -56,5 +56,9 @@ npm start
 npm run start
 ```
 
+# Application Looks like
 
+![MEAN Todo](./screenshots/angular-todo.PNG)
+#
+![MEAN Todo](./screenshots/angular-todo2.PNG)
 
