@@ -4,7 +4,7 @@ Note Saving app with CURD operations
 
 ## Create Database:
 
--First created database using the following commands
+- First created database using the following commands
 
 #### First open command prompt(cmd), write the following command and hit enter. This create a database named "todoList"  
 
