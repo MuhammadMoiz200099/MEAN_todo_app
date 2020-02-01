@@ -1,4 +1,4 @@
-# MEAN_todo_app
+# MEAN TODO APPLICATION
 Note Saving app with CURD operations
 
 
