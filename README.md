@@ -38,19 +38,19 @@ npm install @angular/http
 
 - Follow the Setps:
 
-#### First, Open command prompt(cmd), write the following cmd and hit enter  
+#### First, Open command prompt(cmd), write the following cmd and hit enter and stay running in background 
 
 ```
 mongod
 ```
   
-#### Second, goto "api" folder and run the following cmd  
+#### Secondly, open another command prompt(cmd), goto "api" folder and run the following cmd and stay running in background
 
 ```
 npm start
 ```
 
-#### Third, goto "todoListCURD" folder and run the following cmd
+#### Third, open another command prompt(cmd), goto "todoListCURD" folder and run the following cmd and stay running in background
 
 ```
 npm run start
